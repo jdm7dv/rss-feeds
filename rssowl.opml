@@ -2,7 +2,7 @@
 <opml xmlns:rssowl="http://www.rssowl.org" version="1.1">
   <head>
     <title>RSSOwl Subscriptions</title>
-    <dateModified>Tue, 22 Nov 2016 02:44:08 EST</dateModified>
+    <dateModified>Tue, 22 Nov 2016 03:48:22 EST</dateModified>
   </head>
   <body>
     <outline text="My Feeds" rssowl:isSet="true" rssowl:id="7">
@@ -16,31 +16,11 @@
       <outline text="Top Society News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/top/society.xml" rssowl:id="567" />
       <outline text="Strange &amp; Offbeat News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/strange_offbeat.xml" rssowl:id="630" />
       <outline text="Latest Science News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/most_popular.xml" rssowl:id="693" />
-      <outline text="EurekAlert! - Breaking News" xmlUrl="https://www.eurekalert.org/rss.xml" rssowl:id="756" />
-      <outline text="EurekAlert! - Agriculture" xmlUrl="https://www.eurekalert.org/rss/agriculture.xml" rssowl:id="859" />
-      <outline text="EurekAlert! - Archaeology" xmlUrl="https://www.eurekalert.org/rss/archaeology.xml" rssowl:id="887" />
-      <outline text="EurekAlert! - Atmospheric Science" xmlUrl="https://www.eurekalert.org/rss/atmospheric_science.xml" rssowl:id="915" />
-      <outline text="EurekAlert! - Biology" xmlUrl="https://www.eurekalert.org/rss/biology.xml" rssowl:id="943" />
-      <outline text="EurekAlert! - Business and Economics" xmlUrl="https://www.eurekalert.org/rss/business.xml" rssowl:id="971" />
-      <outline text="EurekAlert! - Cancer Research News" xmlUrl="https://www.eurekalert.org/rss/cancer.xml" rssowl:id="999" />
-      <outline text="EurekAlert! - Chemistry, Physics and Materials Sciences" xmlUrl="https://www.eurekalert.org/rss/chemistry_physics.xml" rssowl:id="1027" />
-      <outline text="EurekAlert! - Climate Change" xmlUrl="https://www.eurekalert.org/rss/climate_change.xml" rssowl:id="1055" />
-      <outline text="EurekAlert! - Earth Science" xmlUrl="https://www.eurekalert.org/rss/earth_science.xml" rssowl:id="1083" />
-      <outline text="EurekAlert! - Education" xmlUrl="https://www.eurekalert.org/rss/education.xml" rssowl:id="1111" />
-      <outline text="EurekAlert! - Infectious and Emerging Diseases" xmlUrl="https://www.eurekalert.org/rss/infectious_emerging_diseases.xml" rssowl:id="1139" />
-      <outline text="EurekAlert! - Mathematics and Statistics" xmlUrl="https://www.eurekalert.org/rss/mathematics.xml" rssowl:id="1167" />
-      <outline text="EurekAlert! - Medicine and Health" xmlUrl="https://www.eurekalert.org/rss/medicine_health.xml" rssowl:id="1195" />
-      <outline text="EurekAlert! - Nanotechnology" xmlUrl="https://www.eurekalert.org/rss/nanotechnology.xml" rssowl:id="1223" />
-      <outline text="EurekAlert! - Oceanography" xmlUrl="https://www.eurekalert.org/rss/oceanography.xml" rssowl:id="1251" />
-      <outline text="EurekAlert! - Policy and Ethics" xmlUrl="https://www.eurekalert.org/rss/policy_ethics.xml" rssowl:id="1279" />
-      <outline text="EurekAlert! - Social and Behavioral Science" xmlUrl="https://www.eurekalert.org/rss/social_behavioral.xml" rssowl:id="1307" />
-      <outline text="EurekAlert! - Space and Planetary Science" xmlUrl="https://www.eurekalert.org/rss/space_planetary.xml" rssowl:id="1335" />
-      <outline text="EurekAlert! - Technology, Engineering and Computer Science" xmlUrl="https://www.eurekalert.org/rss/technology_engineering.xml" rssowl:id="1363">
-        <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="1382" type="3" />
-      </outline>
       <outline text="L.A. Times - Science" xmlUrl="feed://feeds.latimes.com/latimes/news/science?format=xml" rssowl:id="1441" />
       <outline text="NYT &gt; Science" xmlUrl="feed://rss.nytimes.com/services/xml/rss/nyt/Science.xml" rssowl:id="1443" />
-      <outline text="BBC News - Science &amp; Environment" xmlUrl="feed://feeds.bbci.co.uk/news/science_and_environment/rss.xml?edition=uk" rssowl:id="1695" />
+      <outline text="BBC News - Science &amp; Environment" xmlUrl="feed://feeds.bbci.co.uk/news/science_and_environment/rss.xml?edition=uk" rssowl:id="1695">
+        <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="1703" type="3" />
+      </outline>
       <outline text="Science Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/b2f0ca3a594644ee9e50a8ec4ce2d6de" rssowl:id="1842" />
       <outline text="Top Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305" rssowl:id="1725" />
       <outline text="U.S. Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/386c25518f464186bf7a2ac026580ce7" rssowl:id="1738" />
@@ -48,10 +28,43 @@
       <outline text="Politics Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/89ae8247abe8493fae24405546e9a1aa" rssowl:id="1764" />
       <outline text="Business Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/f70471f764144b2fab526d39972d37b3" rssowl:id="1777" />
       <outline text="Technology Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd" rssowl:id="1790" />
-      <outline text="Sports Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/347875155d53465d95cec892aeb06419" rssowl:id="1803" />
+      <outline text="Sports Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/347875155d53465d95cec892aeb06419" rssowl:id="1803">
+        <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="1804" type="3" />
+      </outline>
       <outline text="Entertainment Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/4e67281c3f754d0696fbfdee0f3f1469" rssowl:id="1816" />
       <outline text="Health Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/bbd825583c8542898e6fa7d440b9febc" rssowl:id="1829" />
       <outline text="Offbeat Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/aa9398e6757a46fa93ed5dea7bd3729e" rssowl:id="1855" />
+      <outline text="EurekAlert!" rssowl:isSet="false" rssowl:id="2388">
+        <outline text="EurekAlert! - Breaking News" xmlUrl="https://www.eurekalert.org/rss.xml" rssowl:id="756" />
+        <outline text="EurekAlert! - Agriculture" xmlUrl="https://www.eurekalert.org/rss/agriculture.xml" rssowl:id="859" />
+        <outline text="EurekAlert! - Archaeology" xmlUrl="https://www.eurekalert.org/rss/archaeology.xml" rssowl:id="887" />
+        <outline text="EurekAlert! - Atmospheric Science" xmlUrl="https://www.eurekalert.org/rss/atmospheric_science.xml" rssowl:id="915" />
+        <outline text="EurekAlert! - Biology" xmlUrl="https://www.eurekalert.org/rss/biology.xml" rssowl:id="943" />
+        <outline text="EurekAlert! - Business and Economics" xmlUrl="https://www.eurekalert.org/rss/business.xml" rssowl:id="971" />
+        <outline text="EurekAlert! - Cancer Research News" xmlUrl="https://www.eurekalert.org/rss/cancer.xml" rssowl:id="999" />
+        <outline text="EurekAlert! - Chemistry, Physics and Materials Sciences" xmlUrl="https://www.eurekalert.org/rss/chemistry_physics.xml" rssowl:id="1027" />
+        <outline text="EurekAlert! - Climate Change" xmlUrl="https://www.eurekalert.org/rss/climate_change.xml" rssowl:id="1055" />
+        <outline text="EurekAlert! - Earth Science" xmlUrl="https://www.eurekalert.org/rss/earth_science.xml" rssowl:id="1083" />
+        <outline text="EurekAlert! - Education" xmlUrl="https://www.eurekalert.org/rss/education.xml" rssowl:id="1111" />
+        <outline text="EurekAlert! - Infectious and Emerging Diseases" xmlUrl="https://www.eurekalert.org/rss/infectious_emerging_diseases.xml" rssowl:id="1139" />
+        <outline text="EurekAlert! - Mathematics and Statistics" xmlUrl="https://www.eurekalert.org/rss/mathematics.xml" rssowl:id="1167" />
+        <outline text="EurekAlert! - Medicine and Health" xmlUrl="https://www.eurekalert.org/rss/medicine_health.xml" rssowl:id="1195" />
+        <outline text="EurekAlert! - Nanotechnology" xmlUrl="https://www.eurekalert.org/rss/nanotechnology.xml" rssowl:id="1223">
+          <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="1241" type="3" />
+        </outline>
+        <outline text="EurekAlert! - Oceanography" xmlUrl="https://www.eurekalert.org/rss/oceanography.xml" rssowl:id="1251" />
+        <outline text="EurekAlert! - Policy and Ethics" xmlUrl="https://www.eurekalert.org/rss/policy_ethics.xml" rssowl:id="1279" />
+        <outline text="EurekAlert! - Social and Behavioral Science" xmlUrl="https://www.eurekalert.org/rss/social_behavioral.xml" rssowl:id="1307" />
+        <outline text="EurekAlert! - Space and Planetary Science" xmlUrl="https://www.eurekalert.org/rss/space_planetary.xml" rssowl:id="1335" />
+        <outline text="EurekAlert! - Technology, Engineering and Computer Science" xmlUrl="https://www.eurekalert.org/rss/technology_engineering.xml" rssowl:id="1363">
+          <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="1382" type="3" />
+        </outline>
+      </outline>
+      <outline text="Smithsonian" rssowl:isSet="false" rssowl:id="1871">
+        <outline text="Latest articles | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/latest_articles" rssowl:id="1873" />
+        <outline text="Articles | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/articles" rssowl:id="1895" />
+        <outline text="Design | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/design" rssowl:id="2379" />
+      </outline>
     </outline>
     <rssowl:label id="2" name="Work" order="1" color="200,118,10" />
     <rssowl:label id="1" name="Important" order="0" color="163,21,2" />
@@ -94,7 +107,7 @@
     <rssowl:pref id="org.rssowl.ui.internal.editors.feed.SearchTarget" value="1" type="1" kind="0" />
     <rssowl:pref id="org.rssowl.ui.internal.editors.feed.GroupType" value="0" type="1" kind="0" />
     <rssowl:pref id="org.rssowl.ui.internal.editors.feed.FilterType" value="0" type="1" kind="0" />
-    <rssowl:pref id="org.rssowl.ui.internal.editors.feed.SashFormWeights" value="50,50" type="2" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.editors.feed.SashFormWeights" value="623,372" type="2" kind="0" />
     <rssowl:pref id="org.rssowl.ui.internal.editors.feed.Layout" value="0" type="1" kind="0" />
     <rssowl:pref id="org.rssowl.ui.internal.editors.feed.HighlightSearchResults" value="false" type="0" kind="0" />
     <rssowl:pref id="org.rssowl.ui.internal.editors.feed.FeedToolBarHidden" value="false" type="0" kind="0" />
