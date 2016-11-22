@@ -1,2 +1,2 @@
 # rss-feeds
-A colletion of my RSS feeds.
+A collection of my RSS feeds.
