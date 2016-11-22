@@ -2,38 +2,25 @@
 <opml xmlns:rssowl="http://www.rssowl.org" version="1.1">
   <head>
     <title>RSSOwl Subscriptions</title>
-    <dateModified>Tue, 22 Nov 2016 03:48:22 EST</dateModified>
+    <dateModified>Tue, 22 Nov 2016 04:13:05 EST</dateModified>
   </head>
   <body>
     <outline text="My Feeds" rssowl:isSet="true" rssowl:id="7">
-      <outline text="Scientific American News" xmlUrl="feed://rss.sciam.com/ScientificAmerican-News?format=xml" rssowl:id="12" />
-      <outline text="Latest Science News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/all.xml" rssowl:id="189" />
-      <outline text="Latest Science News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/top.xml" rssowl:id="252" />
-      <outline text="All Top News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/top/science.xml" rssowl:id="315" />
-      <outline text="Top Health News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/top/health.xml" rssowl:id="378" />
-      <outline text="Top Technology News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/top/technology.xml" rssowl:id="441" />
-      <outline text="Top Environment News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/top/environment.xml" rssowl:id="504" />
-      <outline text="Top Society News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/top/society.xml" rssowl:id="567" />
-      <outline text="Strange &amp; Offbeat News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/strange_offbeat.xml" rssowl:id="630" />
-      <outline text="Latest Science News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/most_popular.xml" rssowl:id="693" />
-      <outline text="L.A. Times - Science" xmlUrl="feed://feeds.latimes.com/latimes/news/science?format=xml" rssowl:id="1441" />
-      <outline text="NYT &gt; Science" xmlUrl="feed://rss.nytimes.com/services/xml/rss/nyt/Science.xml" rssowl:id="1443" />
-      <outline text="BBC News - Science &amp; Environment" xmlUrl="feed://feeds.bbci.co.uk/news/science_and_environment/rss.xml?edition=uk" rssowl:id="1695">
-        <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="1703" type="3" />
+      <outline text="Associated Press." rssowl:isSet="false" rssowl:id="4768">
+        <outline text="Science Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/b2f0ca3a594644ee9e50a8ec4ce2d6de" rssowl:id="1842" />
+        <outline text="Top Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305" rssowl:id="1725" />
+        <outline text="U.S. Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/386c25518f464186bf7a2ac026580ce7" rssowl:id="1738" />
+        <outline text="World Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5" rssowl:id="1751" />
+        <outline text="Politics Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/89ae8247abe8493fae24405546e9a1aa" rssowl:id="1764" />
+        <outline text="Business Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/f70471f764144b2fab526d39972d37b3" rssowl:id="1777" />
+        <outline text="Technology Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd" rssowl:id="1790" />
+        <outline text="Sports Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/347875155d53465d95cec892aeb06419" rssowl:id="1803">
+          <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="1804" type="3" />
+        </outline>
+        <outline text="Entertainment Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/4e67281c3f754d0696fbfdee0f3f1469" rssowl:id="1816" />
+        <outline text="Health Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/bbd825583c8542898e6fa7d440b9febc" rssowl:id="1829" />
+        <outline text="Offbeat Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/aa9398e6757a46fa93ed5dea7bd3729e" rssowl:id="1855" />
       </outline>
-      <outline text="Science Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/b2f0ca3a594644ee9e50a8ec4ce2d6de" rssowl:id="1842" />
-      <outline text="Top Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305" rssowl:id="1725" />
-      <outline text="U.S. Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/386c25518f464186bf7a2ac026580ce7" rssowl:id="1738" />
-      <outline text="World Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5" rssowl:id="1751" />
-      <outline text="Politics Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/89ae8247abe8493fae24405546e9a1aa" rssowl:id="1764" />
-      <outline text="Business Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/f70471f764144b2fab526d39972d37b3" rssowl:id="1777" />
-      <outline text="Technology Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd" rssowl:id="1790" />
-      <outline text="Sports Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/347875155d53465d95cec892aeb06419" rssowl:id="1803">
-        <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="1804" type="3" />
-      </outline>
-      <outline text="Entertainment Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/4e67281c3f754d0696fbfdee0f3f1469" rssowl:id="1816" />
-      <outline text="Health Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/bbd825583c8542898e6fa7d440b9febc" rssowl:id="1829" />
-      <outline text="Offbeat Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/aa9398e6757a46fa93ed5dea7bd3729e" rssowl:id="1855" />
       <outline text="EurekAlert!" rssowl:isSet="false" rssowl:id="2388">
         <outline text="EurekAlert! - Breaking News" xmlUrl="https://www.eurekalert.org/rss.xml" rssowl:id="756" />
         <outline text="EurekAlert! - Agriculture" xmlUrl="https://www.eurekalert.org/rss/agriculture.xml" rssowl:id="859" />
@@ -60,11 +47,53 @@
           <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="1382" type="3" />
         </outline>
       </outline>
+      <outline text="Science Daily" rssowl:isSet="false" rssowl:id="4767">
+        <outline text="Latest Science News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/all.xml" rssowl:id="189" />
+        <outline text="Latest Science News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/top.xml" rssowl:id="252" />
+        <outline text="All Top News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/top/science.xml" rssowl:id="315" />
+        <outline text="Top Health News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/top/health.xml" rssowl:id="378" />
+        <outline text="Top Technology News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/top/technology.xml" rssowl:id="441" />
+        <outline text="Top Environment News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/top/environment.xml" rssowl:id="504" />
+        <outline text="Top Society News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/top/society.xml" rssowl:id="567" />
+        <outline text="Strange &amp; Offbeat News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/strange_offbeat.xml" rssowl:id="630" />
+        <outline text="Latest Science News -- ScienceDaily" xmlUrl="https://rss.sciencedaily.com/most_popular.xml" rssowl:id="693" />
+      </outline>
       <outline text="Smithsonian" rssowl:isSet="false" rssowl:id="1871">
         <outline text="Latest articles | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/latest_articles" rssowl:id="1873" />
         <outline text="Articles | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/articles" rssowl:id="1895" />
         <outline text="Design | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/design" rssowl:id="2379" />
+        <outline text="Food | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/food" rssowl:id="2391" />
+        <outline text="At the Smithsonian | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/smithsonian-institution" rssowl:id="2416" />
+        <outline text="Ask Smithsonian | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/ask-smithsonian" rssowl:id="2513" />
+        <outline text="Curators' Corner | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/curators-corner" rssowl:id="2524" />
+        <outline text="Attractions | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/attractions-listings" rssowl:id="2535" />
+        <outline text="History | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/history" rssowl:id="2547" />
+        <outline text="Today in History | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/today-2" rssowl:id="2689" />
+        <outline text="Innovation | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/innovation" rssowl:id="2694" />
+        <outline text="Technology | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/technology" rssowl:id="2807" />
+        <outline text="Magazine | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/magazine" rssowl:id="2860" />
+        <outline text="Photos | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/multimedia" rssowl:id="2911" />
+        <outline text="Science | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/science-nature" rssowl:id="2934" />
+        <outline text="Smart News | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/smart-news" rssowl:id="3137" />
+        <outline text="Smart News Arts &amp; Culture | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/smartnews-arts-culture" rssowl:id="3666" />
+        <outline text="Smart News History &amp; Archaeology | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/smartnews-history-archaeology" rssowl:id="3813" />
+        <outline text="Smart News Ideas &amp; Innovations | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/smartnews-ideas-innovations" rssowl:id="3982" />
+        <outline text="Smart News Science | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/smartnews-science" rssowl:id="4023" />
+        <outline text="Smart News Science | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/smartnews-science" rssowl:id="4281" />
+        <outline text="Travel | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/travel" rssowl:id="4284" />
+        <outline text="Cultural Traveler | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/cultural-traveler" rssowl:id="4395" />
+        <outline text="National Parks | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/national-parks" rssowl:id="4418" />
+        <outline text="Outdoors | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/outdoors" rssowl:id="4424" />
+        <outline text="Videos | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/video-2" rssowl:id="4429" />
+        <outline text="Photos | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/photos" rssowl:id="4498" />
+        <outline text="Videos | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/videos" rssowl:id="4681" />
       </outline>
+      <outline text="BBC News - Science &amp; Environment" xmlUrl="feed://feeds.bbci.co.uk/news/science_and_environment/rss.xml?edition=uk" rssowl:id="1695">
+        <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="1703" type="3" />
+      </outline>
+      <outline text="L.A. Times - Science" xmlUrl="feed://feeds.latimes.com/latimes/news/science?format=xml" rssowl:id="1441" />
+      <outline text="NYT &gt; Science" xmlUrl="feed://rss.nytimes.com/services/xml/rss/nyt/Science.xml" rssowl:id="1443" />
+      <outline text="Scientific American News" xmlUrl="feed://rss.sciam.com/ScientificAmerican-News?format=xml" rssowl:id="12" />
     </outline>
     <rssowl:label id="2" name="Work" order="1" color="200,118,10" />
     <rssowl:label id="1" name="Important" order="0" color="163,21,2" />
