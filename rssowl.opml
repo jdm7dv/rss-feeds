@@ -2,7 +2,7 @@
 <opml xmlns:rssowl="http://www.rssowl.org" version="1.1">
   <head>
     <title>RSSOwl Subscriptions</title>
-    <dateModified>Tue, 22 Nov 2016 04:13:05 EST</dateModified>
+    <dateModified>Fri, 02 Dec 2016 12:27:06 EST</dateModified>
   </head>
   <body>
     <outline text="My Feeds" rssowl:isSet="true" rssowl:id="7">
@@ -28,9 +28,13 @@
         <outline text="EurekAlert! - Atmospheric Science" xmlUrl="https://www.eurekalert.org/rss/atmospheric_science.xml" rssowl:id="915" />
         <outline text="EurekAlert! - Biology" xmlUrl="https://www.eurekalert.org/rss/biology.xml" rssowl:id="943" />
         <outline text="EurekAlert! - Business and Economics" xmlUrl="https://www.eurekalert.org/rss/business.xml" rssowl:id="971" />
-        <outline text="EurekAlert! - Cancer Research News" xmlUrl="https://www.eurekalert.org/rss/cancer.xml" rssowl:id="999" />
+        <outline text="EurekAlert! - Cancer Research News" xmlUrl="https://www.eurekalert.org/rss/cancer.xml" rssowl:id="999">
+          <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="1000" type="3" />
+        </outline>
         <outline text="EurekAlert! - Chemistry, Physics and Materials Sciences" xmlUrl="https://www.eurekalert.org/rss/chemistry_physics.xml" rssowl:id="1027" />
-        <outline text="EurekAlert! - Climate Change" xmlUrl="https://www.eurekalert.org/rss/climate_change.xml" rssowl:id="1055" />
+        <outline text="EurekAlert! - Climate Change" xmlUrl="https://www.eurekalert.org/rss/climate_change.xml" rssowl:id="1055">
+          <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="1071" type="3" />
+        </outline>
         <outline text="EurekAlert! - Earth Science" xmlUrl="https://www.eurekalert.org/rss/earth_science.xml" rssowl:id="1083" />
         <outline text="EurekAlert! - Education" xmlUrl="https://www.eurekalert.org/rss/education.xml" rssowl:id="1111" />
         <outline text="EurekAlert! - Infectious and Emerging Diseases" xmlUrl="https://www.eurekalert.org/rss/infectious_emerging_diseases.xml" rssowl:id="1139" />
@@ -62,7 +66,9 @@
         <outline text="Latest articles | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/latest_articles" rssowl:id="1873" />
         <outline text="Articles | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/articles" rssowl:id="1895" />
         <outline text="Design | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/design" rssowl:id="2379" />
-        <outline text="Food | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/food" rssowl:id="2391" />
+        <outline text="Food | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/food" rssowl:id="2391">
+          <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="4915" type="3" />
+        </outline>
         <outline text="At the Smithsonian | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/smithsonian-institution" rssowl:id="2416" />
         <outline text="Ask Smithsonian | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/ask-smithsonian" rssowl:id="2513" />
         <outline text="Curators' Corner | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/curators-corner" rssowl:id="2524" />
@@ -74,7 +80,9 @@
         <outline text="Magazine | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/magazine" rssowl:id="2860" />
         <outline text="Photos | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/multimedia" rssowl:id="2911" />
         <outline text="Science | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/science-nature" rssowl:id="2934" />
-        <outline text="Smart News | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/smart-news" rssowl:id="3137" />
+        <outline text="Smart News | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/smart-news" rssowl:id="3137">
+          <rssowl:pref id="org.rssowl.pref.NMSelectedNews" value="4835" type="3" />
+        </outline>
         <outline text="Smart News Arts &amp; Culture | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/smartnews-arts-culture" rssowl:id="3666" />
         <outline text="Smart News History &amp; Archaeology | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/smartnews-history-archaeology" rssowl:id="3813" />
         <outline text="Smart News Ideas &amp; Innovations | Smithsonian" xmlUrl="feed://www.smithsonianmag.com/rss/smartnews-ideas-innovations" rssowl:id="3982" />
@@ -94,6 +102,9 @@
       <outline text="L.A. Times - Science" xmlUrl="feed://feeds.latimes.com/latimes/news/science?format=xml" rssowl:id="1441" />
       <outline text="NYT &gt; Science" xmlUrl="feed://rss.nytimes.com/services/xml/rss/nyt/Science.xml" rssowl:id="1443" />
       <outline text="Scientific American News" xmlUrl="feed://rss.sciam.com/ScientificAmerican-News?format=xml" rssowl:id="12" />
+      <outline text="Science" rssowl:isSet="false" rssowl:id="4919">
+        <outline text="Google News on 'iPS Stem Cells'" xmlUrl="http://news.google.com/news?q=iPS+Stem+Cells&amp;output=rss&amp;num=25" rssowl:id="4921" />
+      </outline>
     </outline>
     <rssowl:label id="2" name="Work" order="1" color="200,118,10" />
     <rssowl:label id="1" name="Important" order="0" color="163,21,2" />
@@ -136,7 +147,7 @@
     <rssowl:pref id="org.rssowl.ui.internal.editors.feed.SearchTarget" value="1" type="1" kind="0" />
     <rssowl:pref id="org.rssowl.ui.internal.editors.feed.GroupType" value="0" type="1" kind="0" />
     <rssowl:pref id="org.rssowl.ui.internal.editors.feed.FilterType" value="0" type="1" kind="0" />
-    <rssowl:pref id="org.rssowl.ui.internal.editors.feed.SashFormWeights" value="623,372" type="2" kind="0" />
+    <rssowl:pref id="org.rssowl.ui.internal.editors.feed.SashFormWeights" value="575,420" type="2" kind="0" />
     <rssowl:pref id="org.rssowl.ui.internal.editors.feed.Layout" value="0" type="1" kind="0" />
     <rssowl:pref id="org.rssowl.ui.internal.editors.feed.HighlightSearchResults" value="false" type="0" kind="0" />
     <rssowl:pref id="org.rssowl.ui.internal.editors.feed.FeedToolBarHidden" value="false" type="0" kind="0" />
@@ -194,6 +205,7 @@
     <rssowl:pref id="org.rssowl.pref.ShowToolbar" value="true" type="0" kind="0" />
     <rssowl:pref id="org.rssowl.pref.ShowStatus" value="true" type="0" kind="0" />
     <rssowl:pref id="org.rssowl.pref.BMLoadTitleFromFeed" value="true" type="0" kind="0" />
+    <rssowl:pref id="org.rssowl.pref.LastKeywordFeed" value="org.rssowl.ui.GoogleNewsKeywordFeed" type="5" kind="0" />
     <rssowl:pref id="org.rssowl.pref.OpenBrowserInBackground" value="false" type="0" kind="0" />
     <rssowl:pref id="org.rssowl.pref.ShareProviderState" value="3,5,1,6,7,24,-8,-19,-9,-10,-12,-13,-4,-14,-15,-16,-17,-11,-18,-20,-21,-2,-22,-23,-25,-26" type="2" kind="0" />
     <rssowl:pref id="org.rssowl.pref.HideCompletedDownloads" value="false" type="0" kind="0" />
